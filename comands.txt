@@ -1,0 +1,44 @@
+pubspec.yaml:
+	flutter pub add <name>
+
+Socketi:
+	lsof -ti :<port_number> | xargs kill
+
+	lsof -i :<port_number>
+	kill <pid> 
+
+Testiranje na vise simulatora:
+	flutter devices
+	flutter run lib/server/server.dart -d <simulator_id>
+
+
+Git commands:
+	cd folder
+	git init 
+	git add .
+	git commit -m “msg”.    :wq
+
+	git branch branch_name
+	git branch -a
+	git checkout branch_name
+	git branch -d branch_name (delete)
+
+	git checkout master
+	git merge branch_name -m “msg”
+
+
+ZA PROJEKT
+	cd Desktop
+	git clone
+	kopirat .git projekt u moj projekt
+	cd project
+	git branch <name>
+	git checkout <name>
+	
+	// napravit neke promjene
+	git add .
+	git commit -m “msg”
+	git push origin <name>
+
+SSH key:
+	fraza: \n

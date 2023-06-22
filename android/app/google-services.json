@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "339678115763",
+    "project_id": "asseco-app",
+    "storage_bucket": "asseco-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339678115763:android:752086a7fde1da446c7dc6",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339678115763-ss3ejckt5a4piba9fa21j2gto8mu5pvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE5lNZERTXk9MKb1MOB5oz3ONnrGe5eos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339678115763-ss3ejckt5a4piba9fa21j2gto8mu5pvs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "339678115763-5od5l8glfbaq5pmufoc40j4tigtjjbtj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
