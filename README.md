@@ -28,9 +28,7 @@ The game currently uses standard poker cards and lacks a thematic background, wh
 
 ## 🖼️ Screenshot
 Below is a screenshot showcasing the game interface and highlighting its features. 
-[![Snimka-zaslona-2024-04-21-190540.png](https://i.postimg.cc/HkNCpLbY/Snimka-zaslona-2024-04-21-190540.png)](https://postimg.cc/0z74nPtF)
-[![Snimka-zaslona-2024-04-21-190204.png](https://i.postimg.cc/VkWbT3tW/Snimka-zaslona-2024-04-21-190204.png)](https://postimg.cc/2136L921)
-[![Snimka-zaslona-2024-04-21-190204.png](https://i.postimg.cc/YC7w0PsV/Snimka-zaslona-2024-04-21-190204.png)](https://postimg.cc/JGpFdpmc)
+[![Game UI](https://i.postimg.cc/YC7w0PsV/Snimka-zaslona-2024-04-21-190204.png)](https://postimg.cc/JGpFdpmc)
 
 ## 🤝 Contribution
 If you're passionate about card games and have ideas for improving Tressette, your contributions are welcome! Whether it's designing a thematic background, refining gameplay mechanics, or adding localized card designs, your input can help enhance this game. 🛠️
